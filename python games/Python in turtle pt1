@@ -1,0 +1,81 @@
+backward(100)
+left(-165)
+
+speed(0)
+
+for c in range(4):
+    forward(5)
+    left(10)
+    forward(5)
+    left(10)
+    
+    
+
+
+
+right(5)
+forward(40)
+right(90)
+forward(20)
+
+for c in range(5):
+    right(15)
+    forward(10)
+    
+    
+
+
+
+right(15)
+forward(30)
+
+
+for c in range(8):
+    right(8)
+    forward(10)
+    
+    
+    
+    
+right(25)
+forward(115)
+left(90)
+forward(10)
+left(90)
+forward(70)
+
+right(90)
+forward(30)
+
+for c in range(6):
+    right(10)
+    forward(8)
+    
+
+right(30)
+forward(80)
+
+
+for c in range(5):
+    right(10)
+    forward(5)
+    
+    
+    
+    
+right(40)    
+forward(65)
+
+
+for c in range(9):
+    forward(10)
+    right(10)
+    
+
+    
+
+
+
+
+
+    
